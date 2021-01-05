@@ -1,0 +1,21 @@
+{
+    id:1
+    name:Das Institut
+    author:Stephen King
+    days_until_return:0
+    borrower_id:-1
+}
+{
+    id:2
+    name:Drachenreiter
+    author:Cornelia Funke
+    days_until_return:0
+    borrower_id:-1
+}
+{
+    id:25
+    name:Jim Knopf & Lukas der Lokomotivfuehrer
+    author:Michael Ende
+    days_until_return:0
+    borrower_id:-1
+}

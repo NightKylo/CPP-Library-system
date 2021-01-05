@@ -6,8 +6,8 @@
 #include <sstream>
 
 auto const STRING_NOT_FOUND = std::string::npos;
-const std::string BOOK_PATH = "C:\\Users\\Anwender\\Documents\\Programmieren\\C++\\lib\\books";
-const std::string USER_PATH = "C:\\Users\\Anwender\\Documents\\Programmieren\\C++\\lib\\users";
+const std::string BOOK_PATH = "books";
+const std::string USER_PATH = "users";
 
 struct User{
     int id;

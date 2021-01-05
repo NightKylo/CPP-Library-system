@@ -2,8 +2,8 @@
 #include <conio.h>
 #include "includes/books.h"
 
-const std::string BOOK_PATH = "C:\\Users\\Anwender\\Documents\\Programmieren\\C++\\lib\\books";
-const std::string USER_PATH = "C:\\Users\\Anwender\\Documents\\Programmieren\\C++\\lib\\users";
+const std::string BOOK_PATH = "books";
+const std::string USER_PATH = "users";
 const int NEW_LINES = 50;
 auto const RETURN_DAYS = 7;
 

@@ -5,7 +5,7 @@
 const std::string BOOK_PATH = "books";
 const std::string USER_PATH = "users";
 const int NEW_LINES = 50;
-auto const RETURN_DAYS = 7;
+const int RETURN_DAYS = 7;
 
 void login(const bool &debug);
 void lib(const User &user, const bool &debug);
